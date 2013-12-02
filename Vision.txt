@@ -1,0 +1,92 @@
+---Vision---------------------------------------
+Vad en vision ska bestå av
+---------------------------------------------------------
+Bakgrund och problem/idebeskrivning
+Änvändargrupper 
+Intressenter
+Linknande/konkurrerande system
+Indivudeltt numrerade baskrav/egenskpare/system features
+
+Visionen ska vara kort och "säljanade"
+- ca 1A4
+- Referera till mer detaljerad information //Detta behöver inte vara eget material, kan ref till lagara / konkurrenter
+Baskraven ska gärna vara "unique selling points"
+- Vad är det som är unikt och bra med vår programvara/
+- Även anpassade mjukvara behöver säljas in
+- 3-10 baskrav
+----------------------------------------------------------
+Bakgrund problem
+-----------------
+Beskriv kortfattat problemet eller iden och något kring ev nuvarande system.
+En kort beskrivning av kund/företag kan vara på sin plats.
+
+Användargrupper
+--------------------
+Alla som är tänkta att använda mjukvaran på något sätt
+Olika grupper av slutanvändare 
+Administratörer
+Support 
+Utvecklar
+
+Slutanvändare
+för att hitta och utveckla funktionalitet som passar och att kunna testa system på realistiskt sätt.
+
+Allmän beskrivning är inte önskvärt
+ "En datorvan person mellan 18 och 65år"
+
+Ålder
+Kön 
+Arbete
+Utblidning 
+
+Intressenter
+----------------------------------
+Kund 
+Styrgrupper 
+myndigheter
+standarder
+
+Alla som på något sätt berörs av projektete och som på något sätt behöver ge eller få information kring projektet. 
+Om det inte är uppenbart så beskriv intessentens roll/informationsbehov samt konktaktuppgifter
+
+Linknande/Konkurrerande System
+------------------
+Undersök och analysera ev testa konkurrerande system. Hitta bra och dåliga lösnningar
+
+Vad gör system X för att lösa problemet för slutanvändare Y, 
+Vilken funktionalietet erbjuds, bra/dålig? 
+
+Denna del är mest föränderlig.
+
+
+BasKrav
+--------------
+Baskrav är ett krav på en hög nivå
+Inga detaljer speciellt inte tekniksa "hur"
+takniska krav från kund kan tas med
+
+Beskriver vilka egenskaper mjukvaran ska ha för att lösa problemet
+-fokusera på det som gör lösningen unik
+-fokusera på de identifierade slutanvändarna
+-undvik att beskriva självklar funktionalitet
+
+Baskraven ska vara unikt identifierbara
+.Så att vi kan spåra dom till krav design implemetation test och leverans
+
+----------------------------------------------------------------------
+Vision vad det används till
+-------------
+Hitta risker tidigt
+-något som känns oklart i baskraven, reda ut detta
+	Vad är användaravänligt?
+
+Likanade/konkurrerande system
+Något teknikskt som begränsar oss.
+	Tillgång, vet hur existerande system fungerar
+
+Säkra tillgång till slutanvändare i de olika grupperna tidigt
+
+Visionen ska ge vem som helst en snabb förståelse för problemet och vem projektet vänder sig till och vad systemet skall uppfylla aför att kunna räknas som lyckat
+Visionen sätter en grov riktning.
+
+Ta fram en vision för ett system. -Nästa labb
