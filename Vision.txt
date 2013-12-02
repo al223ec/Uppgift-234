@@ -97,6 +97,7 @@ Ta fram en vision för ett system. -Nästa labb
 
 Bakgrund/Problembeskrivning
 -
+Svårt att hantera nya kunder och skriva in .... Göra att de nya kunderna får tillgång till gymmet
 Atletklubben har begrännsat med personal och behöver ett system för att hantera nya kunder. 
 Kunder ska själv kunna skriva upp sig och lösa gymkort. De ska då även få en tillfällig
 kod för omeddelbar tillgång till gymmet, det riktiga kortet tar några dagar att få pga logistik.  
