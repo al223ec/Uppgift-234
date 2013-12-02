@@ -90,3 +90,65 @@ Visionen ska ge vem som helst en snabb förståelse för problemet och vem projekte
 Visionen sätter en grov riktning.
 
 Ta fram en vision för ett system. -Nästa labb
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Bakgrund/Problembeskrivning
+-
+Atletklubben har begrännsat med personal och behöver ett system för att hantera nya kunder. 
+Kunder ska själv kunna skriva upp sig och lösa gymkort. De ska då även få en tillfällig
+kod för omeddelbar tillgång till gymmet, det riktiga kortet tar några dagar att få pga logistik.  
+
+Viktigt för att hantera kunder och att inte obhöriga använder gymmet. 
+Ska kunna i efterhand logga in och få kod på sms
+
+Gymmet är obemannat, 
+Ska man kunna köpa saker på sitt kort? EVO 
+Egna sidor? Koppla till face? 
+
+
+Användargrupper
+Kund
+Vilka går på gymmet? 
+
+Administartör
+Medelmsregister
+
+Baskrav
+-----
+Minimalt med information, dock persnr/alt direktbetalning. 
+Kund ska själv kunna få tillgång till gymmet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
